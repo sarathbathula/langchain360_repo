@@ -1,0 +1,17 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+
+# Ignore Streamlit static files
+.env
+
+# Ignore VSCode settings (if applicable)
+.vscode/
+
+# Ignore macOS system files
+.DS_Store
